@@ -1,0 +1,35 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/books/fep.html",
+      "/books/uat.html",
+      "/books/vpe.html",
+      "/books/nc.html",
+      "/books/br.html",
+      "/books/twe.html",
+      "/books/dc.html",
+      "/books/bls.html",
+      "/books/hb.html",
+      "/tours/Xangai_by_night.html",
+      "/tours/One_day_Beijing.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/Carol/index.html",
+      "/posts/Elaine/index.html",
+      "/posts/Fabiola/index.html",
+      "/posts/Fer/index.html",
+      "/posts/Helio/index.html",
+      "/posts/Jorge/index.html",
+      "/posts/Lari/index.html",
+      "/posts/Marcela/index.html",
+      "/posts/Mauro/index.html",
+      "/posts/Patricia/index.html",
+      "/posts/Silvia/index.html",
+      "/posts/Vivian/index.html"
+    ]
+  }
+]
