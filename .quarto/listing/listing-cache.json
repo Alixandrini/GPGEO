@@ -1,0 +1,11 @@
+{
+  "listingMap": {
+    "about.qmd": [
+      "posts"
+    ],
+    "index.qmd": [
+      "books",
+      "tours"
+    ]
+  }
+}

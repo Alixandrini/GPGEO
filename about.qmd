@@ -1,0 +1,62 @@
+---
+image: img/logo_gpgeo.jpeg
+about:
+  template: jolla
+  links:
+    - icon: youtube
+      text: GISTV
+      href: https://www.youtube.com/@gistv7661
+    - icon: instagram
+      text: Insta
+      href: https://www.instagram.com/gpgeo_ufba/
+    - icon: github
+      text: Github
+      href: https://github.com/Alixandrini/GPGEO
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+# Sobre o Grupo de Pesquisa GPGEO
+
+O Grupo de Pesquisa em Informações Geoespaciais (GPGeo), da Escola Politécnica da Universidade Federal da Bahia (UFBA), tem como foco compreender e transformar o espaço urbano por meio de informações geoespaciais, articulando cartografia, geoprocessamento, sensoriamento remoto, aeronaves remotamente pilotadas (RPAs), mapeamento colaborativo e Inteligência Artificial Geoespacial (GeoIA) para apoiar a engenharia, o planejamento territorial e a formulação de políticas públicas mais justas, com ênfase em acessibilidade, caminhabilidade e redução das desigualdades socioespaciais.
+
+
+# Onde você nos encontra?
+
+ Nossos professores estão ligados ao Departamento de Engenharia de Transportes e Geodésia - DETG que fica na Rua Aristides Novis, 2 sexto-andar da Escola Politécnica da UFBA. Você pode acessar também o [Programa de pós-graduação em Engenharia Civil - PPEC](www.ppec.ufba.br) onde atuamos na área de Sistemas de Transportes e Informações Espaciais. Mas nosso grupo ainda congrega professores do [PósGEO](https://posgeo.ufba.br/), [Profágua](https://profagua.ufba.br/) e [PEI](https://pei.ufba.br/pt-br/mestrado-profissional-0). Mais informações na página principal do GPGEO: [https://gpgeo.ufba.br/](https://gpgeo.ufba.br/)
+
+```{python}
+#| column: page
+
+import folium
+
+m = folium.Map(location=[-12.999747, -38.510608], zoom_start=16, tiles="openstreetmap")
+
+folium.WmsTileLayer(
+    url="https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    name="Google Satélite",
+    fmt="image/png",
+    layers="Google Satélite",
+    attr=u"Google Satélite",
+    transparent=False,
+    overlay=True,
+    control=True,
+).add_to(m)
+
+folium.Marker(location=[-12.999747, -38.510608], popup="Estamos aqui!",icon=folium.Icon(icon="globe")).add_to(m)
+
+folium.LayerControl().add_to(m)
+
+m
+```
+
+[<img src="img/home.png" height="50" alt="Retornar ao início">](index.qmd)
+
+
+# Nossa Equipe

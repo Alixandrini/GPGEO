@@ -1,0 +1,8 @@
+---
+title: "Marcella Sgura Viana"
+date: "2026-09-12"
+categories: [reaserchers]
+image: "marcela.jpeg"
+---
+
+Possui graduação em ciências ambientais - Università di Bologna (2001) - Itália e Mestrado em Engenharia Ambiental Urbana pela Escola Politécnica da Universidade Federal da Bahia (UFBA) no Brasil. Tem experiência na área de Engenharia de Transportes, com ênfase em mobilidade sustentável, Engenharia de Transportes, Geoprocessamento aplicado à Transporte, atuando principalmente no seguinte tema: logística urbana. Atualmente é professora e pesquisadora pela UFBA, Escola Politécnica, Departamento de Engenharia de Transportes e Geodesia, atuando desde 2019 como Coordenadora do Colegiado do Curso Superior de Tecnologia em Transporte Terrestre. Tem mais recentemente desenvolvido pesquisas na área de Analises espaciais para Saúde Pública (inclusive COVID-19) e mobilidade urbana, Mapeamento colaborativo e comunitário.

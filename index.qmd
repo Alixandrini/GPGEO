@@ -1,0 +1,375 @@
+---
+listing:
+  - id: books
+    contents: books
+    sort: "date desc"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+  - id: tours
+    contents: tours
+    sort: "date desc"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+page-layout: full
+
+---
+
+:::{.column-screen}
+![](img/banner-china.png);
+:::
+
+# Cooperação Científica Brasil–China 
+
+
+:::: {.columns}
+
+::: {.column}
+<img src="img/logo-ufba.png" alt="UFBA" height="150"/>
+:::
+
+::: {.column}
+<br>
+<img src="img/logo-buaa.png" alt="UFBA" height="100"   />
+:::
+
+::::
+
+
+
+
+A cooperação acadêmica e científica internacional une a **Universidade Federal da Bahia (UFBA)**, por meio da Escola Politécnica, do seu Programa de Pós-Graduação em Engenharia Civil e dos departamentos de Engenharia de Transportes e Geodésia e de Engenharia Estrutural e de Construção, à **Beihang University (BUAA)**, representada pela sua Escola de Ciência e Engenharia de Transportes.
+
+Esta iniciativa busca construir uma ponte de conhecimento e inovação tecnológica entre o Brasil e a China, promovendo o avanço conjunto nas áreas de **infraestrutura de transportes inteligentes** e **engenharia de estruturas e construção**.
+
+
+### **Objetivos Estratégicos**
+
+A colaboração entre os grupos de pesquisa das duas instituições estabeleceu os seguintes pilares estratégicos:
+
+* 💡 **Pesquisa Conjunta e Financiamento**: Elaboração e submissão de projetos integrados para captação de recursos e bolsas junto a agências fomento nacionais e internacionais.
+* 🎓 **Formação e Coorientação Acadêmica**: Intercâmbio de pesquisadores e coorientação de estudantes de pós-graduação.
+* 📜 **Geração de Propriedade Intelectual**: Produção científica conjunta de alto impacto, englobando a publicação de artigos acadêmicos em periódicos internacionais e o registro de patentes.
+
+
+![](img/acordo-br-ch.webp)
+
+### **Contexto Institucional e Sinergia com Grandes Obras**
+
+O fortalecimento desta aliança insere-se em um movimento mais amplo de aproximação científica sino-brasileira, respaldado por iniciativas de cooperação internacional como o **Centro Beihang Brasil (CBB)**, o **Instituto de Inovação Beihang no Brasil** e a presença do **Instituto Confúcio na UFBA**.
+
+Além disso, a cooperação mantém um canal ativo de diálogo com grandes projetos de infraestrutura do estado da Bahia, conectando a pesquisa acadêmica a desafios reais do setor, como as obras da **Ponte Salvador-Itaparica** em parceria com consórcios e empresas de engenharia chinesas (como CCECC e MBEC)
+
+::: {style="max-height: 400px; overflow: hidden;"}
+```{python}
+#| column: screen
+
+import folium
+
+# Define a altura desejada diretamente no mapa (ex: 350px)
+m = folium.Map(
+    location=[13.0, 38.0], 
+    zoom_start=3, 
+    tiles="OpenStreetMap",
+    height=400
+)
+
+folium.Marker(location=[-13.0060, -38.5099], popup="UFBA",icon=folium.Icon(icon="globe")).add_to(m)
+folium.Marker(location=[39.98, 116.34], popup="BUAA", icon=folium.Icon(icon="plane")).add_to(m)
+
+m
+```
+
+:::
+
+# Missão Científica Chinesa na UFBA (Agosto de 2026)
+
+Em **28 de agosto de 2026**, a **Universidade Federal da Bahia (UFBA)** recebeu a visita oficial de uma comitiva de professores e pesquisadores da **Escola de Ciência e Engenharia de Transportes da Universidade de Beihang**. O encontro acadêmico ocorreu na Escola Politécnica da UFBA, envolvendo diretamente o Departamento de Engenharia Estrutural e da Construção e o Departamento de Engenharia de Transportes e Geodésia.
+
+A recepção e a articulação da agenda foram lideradas pela **Profa. Dra. Dayana Bastos Costa** (Pró-Reitora de Ensino de Pós-Graduação e docente da UFBA) e pela **Profa. Dra. Vivian de Oliveira Fernandes**, acompanhadas por professores e pesquisadores da instituição, como os docentes: Sávio Melo, Larissa Ribas, Jorge Ubirajara Pedreira Junior, Caroline Dias, Fernanda Carvalho, Marcela Sgura, Helio Junior... 
+
+A delegação da Universidade de Beihang foi composta por 5 professores e lideranças acadêmicas:
+
+* **Prof. Bowen Du**: Decano da Escola de Ciência e Engenharia de Transportes, especialista em Infraestrutura de Transportes Inteligentes e Ciência da Computação.
+* **Prof. Jun Chen**: Vice-Decano da Escola de Transportes e especialista em Infraestrutura de Transportes Inteligentes.
+* **Prof. Liyan Xu**: Chefe de Departamento e especialista em Infraestrutura de Transportes Inteligentes.
+* **Dr. Lik-ho Tam (Leo)**: Professor Associado de Infraestrutura de Transportes Inteligentes.
+* **Dr. Fan Zhou**: Professor Associado de Engenharia Automotiva e Ciência da Computação.
+
+![Evento de recepção no Auditório da UFBA](img/evento%20ufba1.jpeg)
+
+### **Reunião Multilateral e Conexão com Grandes Obras**
+
+Além de apresentações institucionais e visitas aos laboratórios da Escola Politécnica, a programação da tarde contou com uma reunião técnica multilateral que reuniu importantes parceiros do setor produtivo e cultural:
+
+* **Equipe do Projeto da Ponte Salvador-Itaparica (EPC / MBEC / CCECC)**: Participação de gestores do projeto, incluindo Bin Liang (Gerente de Projetos), Tao Kong (Gerente Executivo), Weizhi Sun, Siqi Fang e Hui Zheng.
+* **Instituto Confúcio na UFBA**: Representado por seu Diretor Chinês, Kun Zhang.
+
+![](img/slide0.jpeg){width=50%}
+
+A visita permitiu alinhar ações concretas de cooperação internacional, como a **coorientação de alunos de pós-graduação**, submissão conjunta de **projetos para captação de fomento** e o desenvolvimento de **propriedade intelectual compartilhada** (publicação de artigos e patentes). Como desdobramento imediato da visita, a liderança de Beihang formalizou o convite para a missão retributiva de pesquisadores da UFBA à China em novembro de 2026.
+
+![](img/slide1.jpeg){width=50%}
+
+# Missão Brasileira na China (Novembro de 2026)
+
+Em retribuição à visita acadêmica e visando o aprofundamento das pesquisas conjuntas, o Prof. Dr. Lik-ho Tam (Leo Tam), da Escola de Ciência e Engenharia de Transportes da Universidade de Beihang, formalizou o convite para que pesquisadores da Escola Politécnica da UFBA participem de uma série de cúpulas e workshops científicos internacionais na China durante a semana de **11 de novembro de 2026**. Todas as despesas de viagem, hospedagem e subsistência diária dos participantes brasileiros serão custeadas por financiamento do governo e de instituições parceiras chinesas.
+
+### **Eventos Internacionais da Programação**
+
+A missão científica abrange três eventos de grande relevância acadêmica e tecnológica:
+
+* 🌐 [**Conference on International Exchange of Professionals (CIEP)**](CIEP.qmd): Realizada em Xangai, focada no intercâmbio profissional e na cooperação internacional em inovação.
+* 🏛️ [**University Partners Summit (UPS)**](UPS.qmd): Cúpula promovida pela própria Universidade de Beihang para reunir suas universidades parceiras globais, sediada em Hangzhou.
+* 🛠️ [**International Workshop on Transportation Information and Infrastructure (IWTII)**](IWTII.qmd): Workshop internacional organizado pela Escola de Transportes de Beihang em Hangzhou, focado nas áreas de informação, infraestrutura de transportes e engenharia de estruturas e construção.
+
+
+| Data  | Evento  |
+|:--------:|:-------------------------------------------------------|
+| 11 nov  | Chinese Standard Time(CST): Chegada em Shanghai, China  |
+| 12 nov  | Manhã CIEP em Shanghai   |
+| 13 nov | Tarde UPS em Hangzhou     |
+| 14 nov  | IWTII na Transportation School em Hangzhou  |
+| 15 nov | Intercâmbio Transportation School   |
+| 16 nov  | Aprofundamento da discussão sobre cooperação  |
+| 17 nov | Volta para Shanghai, China  |
+| 18 nov  | Saída da China   |
+: Agenda Provisória {.striped .hover}
+
+
+### **Delegação da UFBA**
+
+A comitiva de docentes e pesquisadores da Escola Politécnica da UFBA é composta por 10 integrantes:
+
+* **Profa. Dra. Vivian de Oliveira Fernandes**
+* **Profa. Dra. Dayana Bastos Costa**
+* **Prof. Dr. Mauro José Alixandrini Junior**
+* **Dra. Larissa Ribas**
+* **Dr. Helio Queiroz Jr.**
+* **Dra. Caroline Dias Amancio**
+* **Profa. Dra. Patricia Lustosa Brito**
+* **Prof. Dr. Sávio Melo** 
+
+
+### **Cronograma Previsto da Missão (11 a 16 de Novembro de 2026)**
+
+* **11 de Novembro**: Chegada da delegação brasileira a Xangai.
+* **12 de Novembro**: Participação na *Conference on International Exchange of Professionals* (CIEP) em Xangai.
+* **13 de Novembro**: Deslocamento de Xangai para Hangzhou e realização do *University Partners Summit* (UPS).
+* **14 de Novembro**: Participação no *International Workshop on Transportation Information and Infrastructure* (IWTII) em Hangzhou.
+* **15 de Novembro**: Atividades de intercâmbio e reuniões técnicas com a Escola de Transportes de Beihang.
+* **16 de Novembro**: Deslocamento de Hangzhou para Pequim para discussões aprofundadas na sede da Universidade de Beihang ou retorno ao Brasil.
+
+# Sobre a Republica Popular da China 
+
+Também conhecida simplesmente como China, é o maior país da Ásia Oriental e o segundo país mais populoso do mundo, com mais de 1,4 bilhão de habitantes, quase um quinto da população da Terra, superado apenas pela Índia. É uma república popular socialista unipartidária. Na constituição, descreve-se como um sistema multipartidário de cooperação e consulta política sob a liderança do Partido Comunista da China e como uma "ditadura democrática popular liderada pela classe trabalhadora e baseada na aliança de trabalhadores e camponeses". Tem jurisdição sobre vinte e duas províncias, cinco regiões autônomas (Xinjiang, Mongólia Interior, Tibete, Ningxia e Quancim), quatro municípios (Pequim, Tianjin, Xangai e Xunquim) e duas Regiões Administrativas Especiais com relativa autonomia (Hong Kong e Macau). A capital da RPC é Pequim(ou Beijing).
+
+
+
+A nação tem uma longa história, composta por diversos períodos distintos. A civilização chinesa clássica — uma das mais antigas do mundo — floresceu na bacia fértil do rio Amarelo, na planície norte do país. O sistema político chinês era baseado em monarquias hereditárias, conhecidas como dinastias, que tiveram seu início com a semimitológica Xia (aproximadamente 2 000 a.C.) e terminaram com a queda dos Qing, em 1911. Desde 221 a.C., quando a dinastia Qin começou a conquistar vários reinos para formar um império único, o país expandiu-se, fraturou-se e reformulou-se várias vezes. A República da China, fundada em 1911 após a queda da dinastia Qing, governou o continente chinês até 1949. Em 1945, a república chinesa adquiriu Taiwan do Império do Japão, após o fim da Segunda Guerra Mundial. Na fase de 1946–1949 da Guerra Civil Chinesa, o Partido Comunista derrotou o nacionalista Kuomintang no continente e estabeleceu a República Popular da China, em Pequim, em 1 de outubro de 1949, enquanto o Partido Nacionalista mudou a sede do seu governo para Taipei. Desde então, a jurisdição da República da China está limitada à Taiwan e algumas ilhas periféricas (incluindo Penghu, Quemói e Matsu) e o país recebe reconhecimento diplomático limitado ao redor do mundo.
+
+
+![](img/pexels-abdoo-34962251.jpg)
+
+
+Desde a introdução de reformas econômicas em 1978, a China tornou-se em uma das economias de mais rápido crescimento no mundo, sendo o maior exportador e o terceiro maior importador de mercadorias do planeta.
+
+:::{.column-page-right}
+![](img/banner-china.jpg)
+:::
+
+# Dicas para Viagem
+
+![](img/emirates.jpeg)
+
+## Conectividade e Acesso à Internet
+
+eSIM Internacional (Melhor Opção): Se os celulares do grupo forem compatíveis com eSIM, comprem planos de dados internacionais antes do embarque (via Airalo, Nomad, Holafly ou Trip.com). Como o tráfego de dados do eSIM faz roaming internacional, a conexão sai por servidores fora da China continental (geralmente Hong Kong ou Cingapura), permitindo acessar WhatsApp, Gmail, Google Maps e redes sociais sem precisar de VPN.  
+
+
+Chip físico local vs. Roaming: Se comprarem um chip físico dentro da China, a conexão estará 100% sujeita ao Great Firewall (bloqueando WhatsApp, Google e Instagram). 
+
+![](img/pexels-anderson-wei-2151965849-36791762.jpg)
+
+VPN (Essencial para conexões Wi-Fi): Nos hotéis e nas redes Wi-Fi da Universidade de Beihang, o acesso direto à internet continuará filtrado. Para usar notebooks ou conectar o celular no Wi-Fi, instalem e assinem uma VPN ainda no Brasil (provedores consolidados como Astrill VPN, LetsVPN ou Mullvad). Baixar VPNs dentro da China é extremamente difícil, pois os sites e as lojas de aplicativos oficiais bloqueiam esses downloads.  
+
+## Comunicação: WhatsApp e WeChat
+
+WeChat (Obrigatório): O WeChat (Weixin) é onipresente na China. Além de comunicação, ele é usado para criar grupos de trabalho acadêmicos, contatar anfitriões na Beihang e gerenciar inscrições de congressos.  
+
+
+> Atenção ao cadastro: O registro com número brasileiro pode exigir verificação de segurança por um usuário que já use a plataforma há mais de 6 meses. Façam o cadastro com antecedência no Brasil.  
+
+WhatsApp: Funcionará perfeitamente quando estiverem nos dados móveis do eSIM/roaming internacional ou quando a VPN estiver ativa no Wi-Fi. Se ficarem dependentes apenas de Wi-Fi local sem VPN, o WhatsApp não receberá nem enviará mensagens.  
+
+## Pagamentos: Alipay e WeChat Pay  
+
+A China opera praticamente sem dinheiro em espécie e maquininhas convencionais de cartão de crédito não são aceitas na maioria do comércio local.  
+
+![](img/pexels-maria-burnay-1293034462-24349891.jpg){width=30%}
+
+Alipay (Principal para estrangeiros): É a ferramenta mais fácil de configurar para visitantes internacionais. Permite cadastrar cartões internacionais (Visa, Mastercard, Nomad, Wise). É amplamente aceito em restaurantes, lojas, táxis e até pequenas barracas.  
+
+
+WeChat Pay: Também aceita cartões internacionais hoje em dia. Recomenda-se cadastrar cartões em ambos os apps para ter redundância.  
+
+
+Taxas de transação: Transações de até 200 RMB costumam ser isentas de taxa de serviço do app; transações acima desse valor costumam ter acréscimo de 3% cobrado pela plataforma.  Dinheiro em espécie: Levem uma quantia modesta em Yuan (RMB) para emergências de chegada, mas tenham notas menores, pois muitos estabelecimentos não têm troco. 
+
+
+:::{.column-page-inset-right}
+![](img/resumo_dicas.jpg)
+:::
+
+
+# Algumas Frases Essenciais em Mandarim 
+
+
+::: {.callout-note collapse="true"}
+## Cumprimento básico (Olá)
+Mandarim: 你好
+
+Pinyin: Nǐ hǎo
+
+Pronúncia aproximada: "Ni ráo"
+
+Uso: Serve para qualquer hora do dia e em qualquer situação.
+    
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@guhanmandarim/video/7138059853565545734" data-video-id="7138059853565545734" style="max-width: 605px;min-width: 325px;" > 
+  <section> 
+    <a target="_blank" title="@guhanmandarim" href="https://www.tiktok.com/@guhanmandarim?refer=embed">@guhanmandarim</a> 
+  </section> 
+</blockquote> 
+<script async src="https://www.tiktok.com/embed.js"></script>
+
+:::
+
+
+::: {.callout-note collapse="true"}
+## Agradecimento (Obrigado)
+Mandarim: 谢谢
+
+Pinyin: Xièxie
+
+Pronúncia aproximada: "Xiê-xiê"
+
+Uso: Essencial para restaurantes, táxis e recepção.
+:::
+
+
+::: {.callout-note collapse="true"}
+## Perguntar se alguém fala inglês
+Mandarim: 你会说英语吗？
+
+Pinyin: Nǐ huì shuō yīngyǔ ma?
+
+Pronúncia aproximada: "Ni ruei shuô in-yu má?"
+
+Uso: A pergunta direta para estudantes, atendentes de hotel ou nos corredores do evento acadêmico.
+:::
+
+::: {.callout-note collapse="true"}
+## Pedir ajuda (Com licença / Por favor, me ajude)
+Mandarim: 请问，可以帮我一下吗？
+
+Pinyin: Qǐngwèn, kěyǐ bāng wǒ yíxià ma?
+
+Pronúncia aproximada: "Tchin-uen, kôi bân uó i-xiá má?"
+
+Uso: Forma educada de abordar alguém na rua, estação de metrô ou aeroporto antes de mostrar uma dúvida.
+:::
+
+::: {.callout-note collapse="true"}
+## Dizer que não compreendeu o idioma
+Mandarim: 我听不懂
+
+Pinyin: Wǒ tīng bù dǒng
+
+Pronúncia aproximada: "Uó tin bu dôn"
+
+Uso: Significa literalmente "eu ouço mas não entendo". Interrompe conversas rápidas em mandarim sem soar grosseiro.
+:::
+
+
+::: {.callout-note collapse="true"}
+## Desculpas (Com licença / Desculpe)
+Mandarim: 不好意思
+
+Pinyin: Bù hǎoyìsi
+
+Pronúncia aproximada: "Bu ráo-i-ssi"
+
+Uso: Perfeito para abrir caminho no metrô lotado, chamar a atenção do garçom de forma leve ou pedir desculpas por um esbarrão.
+:::
+
+
+::: {.callout-note collapse="true"}
+## Procurar o banheiro
+Mandarim: 洗手间在哪里？
+
+Pinyin: Xǐshǒujiān zài nǎlǐ?
+
+Pronúncia aproximada: "Xi-shôu-tchien zai na-li?"
+
+Uso: Indispensável em conferências, aeroportos e shoppings.
+:::
+
+::: {.callout-note collapse="true"}
+## Pedir a conta
+Mandarim: 买单
+
+Pinyin: Mǎidān
+
+Pronúncia aproximada: "Mai-dan"
+
+Uso: O sinal clássico para fechar a conta no restaurante e preparar o código do Alipay.
+:::
+
+
+::: {.callout-note collapse="true"}
+## Perguntar o preço
+Mandarim: 这个多少钱？
+
+Pinyin: Zhège duōshao qián?
+
+Pronúncia aproximada: "Dje-ga duô-sháo tchien?"
+
+Uso: Apontando para qualquer item em lojas, cantinas ou mercados de rua.
+:::
+
+::: {.callout-note collapse="true"}
+## Não quero pimenta (Frase de ouro para as refeições)
+Mandarim: 不要辣
+
+Pinyin: Bù yào là
+
+Pronúncia aproximada: "Bu iáo lá"
+
+Uso: Ao fazer pedidos em qualquer restaurante fora do hotel.
+:::
+
+
+::: {.callout-note collapse="true"}
+## Despedida (Até logo)
+Mandarim: 再见
+
+Pinyin: Zàijiàn
+
+Pronúncia aproximada: "Dzai-tchien"
+
+Uso: Cumprimento final ao se despedir de colegas ou deixar estabelecimentos.
+:::
+
+
+# Sugestões de Livros e Filmes 
+
+Abaixo estão as sugestões de produções livros, séries e filmes:
+
+:::{#books}
+:::
+
+# Sugestões de Roteiros Turísticos
+
+:::{#tours}
+:::

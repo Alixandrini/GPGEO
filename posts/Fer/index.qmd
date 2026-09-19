@@ -1,0 +1,8 @@
+---
+title: "Fernanda Puga Santos Carvalho"
+date: "2026-09-12"
+categories: [reaserchers, remote sensing]
+image: "fer.jpeg"
+---
+
+Possui graduação em Engenharia Cartográfica pela Universidade Estadual Paulista Júlio de Mesquita Filho (2007), mestrado em Ciências Cartográficas pela Universidade Estadual Paulista Júlio de Mesquita Filho (2010) e doutorado em Ciências Cartográficas com período Sanduíche no Instituto Superior Técnico da Universidade de Lisboa (2016). Desde 2017 é professora adjunta com dedicação exclusiva na Escola Politécnica na Universidade Federal da Bahia - Departamento de Engenharia de Transportes e Geodésia. Atualmente, está vinculada ao Programa de Pós-Graduação em Engenharia Civil da UFBA como membro pesquisador. Realiza pesquisa em Cartografia Planetária, trabalhando principalmente com Processamento de Imagens com ênfase em segmentação e análise de feições em imagens da superfície de Marte.

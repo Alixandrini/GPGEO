@@ -1,0 +1,11 @@
+---
+title: "Elaine Gomes Vieira de Jesus"
+date: "2026-09-12"
+categories: [reaserchers, geography]
+image: "Elaine.jpeg"
+---
+
+Atualmente é Professora Adjunta do Departamento de Geografia da Universidade Federal da Bahia. Doutora em Arquitetura e Urbanismo (UFBA). Mestre em Engenharia Ambiental Urbana (2015). Licenciada e Bacharel em Geografia (2012). É integrante do grupo de estudos do LCAD/UFBA sobre CIM (City Information Modeling) e do Grupo de Pesquisa Cartografia, Análise Espacial e Ensino com Geotecnologia, vinculado ao Laboratório de Cartografia - LACAR. Atuou nos Projetos: Fiscalização do Mapeamento do Município de Salvador, Riscos de Deslizamento da Defesa Civil de Salvador, Inserção da Geoinformação na Secretaria de Patrimônio da União (SPU) em parceira com a UFBA e Sustainable Healthy Urban Environment (SHUE) na área de Saúde e Meio Ambiente. Tem experiência na área de Geociências, com ênfase em Geoprocessamento, SIG e Cartografia. Realiza pesquisas na área de Cartografia, Mapas Digitais, Mapas Interativos, Usabilidade, IDE, SIG 3D, Modelagem geométrica urbana e City Information Modeling (CIM).
+
+ 
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u9GBUPSiT3fCUKfFn5qSiwkFVCfBz-ryscysoxeH&s=10)](http://lattes.cnpq.br/3354856214279485)

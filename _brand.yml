@@ -1,0 +1,35 @@
+color:
+  palette:
+    # Azuis do GPGEO
+    blue-dark: "#214E6B"
+    blue-primary: "#336E8C"
+    blue-medium: "#4F88AB"
+    blue-light: "#7FA9C2"
+    blue-soft: "#B9D2DF"
+
+    # Cinzas
+    gray-dark: "#444A4F"
+    gray-medium: "#6B7075"
+    gray-border: "#8D9398"
+    gray-light: "#B1B6BA"
+    gray-bg: "#D9DCDD"
+
+    # Marrons & Verdes
+    brown-accent: "#A67F64"
+    green-forest: "#2F5B3E"
+    green-leaf: "#4F7F5E"
+
+  # Chaves semânticas padrão
+  primary: "#214E6B"
+  secondary: "#6B7075"
+  success: "#2F5B3E"
+  info: "#336E8C"
+  
+  # Correção: Use foreground em vez de body
+  foreground: "#444A4F"
+  background: "#FFFFFF"
+  link: "#336E8C"
+
+typography:
+  headings:
+    color: "#214E6B"

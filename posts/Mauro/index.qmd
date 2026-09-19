@@ -1,0 +1,10 @@
+---
+title: "Mauro Alixandrini"
+date: "2026-09-12"
+categories: [reaserchers, remote sensing]
+image: "mauro.jpeg"
+---
+
+Sou graduado  em Engenharia Cartográfica pela Universidade Federal do Paraná (2003) e tenho  Mestrado em Engenharia Civil pela Universidade Federal de Santa Catarina (2005) e realizei meu Doutorado em Fotogrametria e Sensoriamento Remoto na Universidade de Karlsruhe na Alemanha (2010). Atuo como Professor Associado I da Universidade Federal da Bahia onde ministro disciplinas do curso de Graduação em Engenharia de Agrimensura e Cartográfica e no Programa de Pós-Graduação em Engenharia Civil (PPEC) na área de Informações Espaciais e no Programa de Pós-Graduação em Gestão e Regulação de Recursos Hídricos (PROFAGUA). Tenho experiência na área de Geociências, com ênfase em Sensoriamento Remoto e Fotogrametria.
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u9GBUPSiT3fCUKfFn5qSiwkFVCfBz-ryscysoxeH&s=10)](http://lattes.cnpq.br/5121729271537073)

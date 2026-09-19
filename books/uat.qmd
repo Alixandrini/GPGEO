@@ -1,0 +1,10 @@
+---
+title: "Us and Them"
+date: "2026-09-12"
+categories: [film, drama]
+image: "us_and_them.jpg"
+---
+
+![](us_and_them.jpg)
+
+Us and Them (Chinese: 后来的我们; pinyin: hòu lái de wǒ men; lit. 'The Future Us') is a 2018 Chinese romantic drama film directed by Taiwanese singer-actress Rene Liu in her directorial debut and produced by Zhang Yibai. The film stars Jing Boran and Zhou Dongyu, and was released on April 28, 2018.The film explores the relationship between a man and a woman who share the same rural hometown and try to find personal and professional fulfillments together in Beijing in the face of economic, social, familial, and romantic adversity.

@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vai pra China GPGEO!"
+  description: "A blog built with Quarto"
+  site-url: https://alixandrini.github.io/GPGEO # you must change this appropriately for RSS feeds to work properly
+  navbar:
+    right:
+      - href: CIEP.qmd
+        text: CIEP
+      - href: UPS.qmd
+        text: UPS
+      - href: IWTII.qmd
+        text: IWTII
+      - href: about.qmd
+        text: Sobre o GPGEO
+      - href: Identidade.qmd
+        text: Templates
+      - icon: github
+        href: https://github.com/Alixandrini
+      - icon: Instagram
+        href: https://www.instagram.com/gpgeo_ufba/
+  sidebar:
+    logo: img/logo_gpgeo.jpeg
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    echo: false
+
+
+

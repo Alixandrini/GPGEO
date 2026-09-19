@@ -1,0 +1,29 @@
+---
+title: "Identidade Visual"
+format: html
+---
+
+## Paleta de Cores
+
+![](img/paleta.png)
+
+## Template para apresentações
+
+[![](img/canva.png)](https://www.canva.com/design/DAHTbJPOht8/C8kaNHAgRGUKwZherb_eDg/edit)
+
+## Logos
+
+![GPGEO](img/logo_gpgeo.jpeg)
+
+
+![Labtrans](img/logo-labtrans.jpeg)
+
+
+![labFSR](img/logo-lbfsr.png)
+
+
+![CartoLab](img/cartolab-logo.png)
+
+## Materiais de Divulgação
+
+![](img/divulgacao.jpg)

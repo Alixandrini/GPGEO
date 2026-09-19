@@ -1,0 +1,11 @@
+---
+title: "Detective Chinatown"
+date: "2015-12-31"
+categories: [film, comedy-mystery]
+image: "detetive_chinatown.png"
+---
+
+![](detetive_chinatown.png)
+
+Detective Chinatown (Chinese: 唐人街探案) is a 2015 Chinese comedy-mystery buddy film directed by Chen Sicheng and starring Wang Baoqiang and Liu Haoran. It was released in China on 31 December 2015. A sequel, was released in February 2018, and a third film was released in February 2021.
+

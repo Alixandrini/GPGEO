@@ -1,0 +1,8 @@
+---
+title: "FABIOLA ANDRADE SOUZA"
+date: "2026-09-12"
+categories: [reaserchers, geoinformatics]
+image: "fabiola.jpeg"
+---
+
+Doutora pelo Programa de Pós-graduação em Ciências Geodésicas da Universidade Federal do Paraná - UFPR. Bacharel em informática pela Universidade Católica do Salvador - UCSAL (2000), com MBA em gestão de sistemas de informação pela Faculdade de Tecnologia Empresarial - FTE (2007) e Mestrado em Engenharia Ambiental Urbana pela Universidade Federal da Bahia - UFBA (2011).  Atua como docente no Departamento de Engenharia de Transportes e Geodésia da Escola Politécnica na Universidade Federal da Bahia - UFBA. Tem experiência na área de geotecnologias, com ênfase em SISTEMAS DE INFORMAÇÃO GEOGRÁFICA, BANCO DE DADOS GEOGRÁFICOS, INFRAESTRUTURA DE DADOS ESPACIAIS, GEOSEMÂNTICA e PROCESSAMENTO DE LINGUAGEM NATURAL.

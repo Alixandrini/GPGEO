@@ -1,0 +1,10 @@
+---
+title: "Vivian de Oliveira Fernandes"
+date: "2026-09-12"
+categories: [reaserchers, geoinformatics]
+image: "vivi.jpeg"
+---
+
+Professora Titular no Departamento de Engenharia de Transportes e Geodésia na Universidade Federal da Bahia (UFBA). Atua como Professora permanente no Programa de Pós-Graduação em Engenharia Civil (PPEC), na área de informações espaciais e no Programa de Pós-Graduação em Geografia (POSGEO). É líder do grupo de pesquisa em Análise e Representação de Dados Espaciais. Engenheira Cartógrafa formada pela Universidade Federal do Paraná (UFPR) com graduação sanduíche no Karlsruhe Institute of Tecnology (KIT). Mestre e Doutora em Engenharia Civil, com tese e dissertação na área de Cartografia pela Universidade Federal de Santa Catarina (UFSC). Realizou doutorado sanduíche no Karlsruhe Institute of Technology (KIT) na Alemanha e foi Professora Visitante no Giscience and Geoinformatics Research Group da Universidade de Heidelberg na Alemanha. Atua nas áreas de cartografia e geoinformática, mais especificamente nas temáticas de projeto cartográfico, visualização cartográfica, controle de qualidade e processo de mapeamento em escala grande.
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u9GBUPSiT3fCUKfFn5qSiwkFVCfBz-ryscysoxeH&s=10)](https://lattes.cnpq.br/4967927147560102)

@@ -1,0 +1,8 @@
+---
+title: "Hélio da Silva Queiroz Júnior"
+date: "2026-09-12"
+categories: [reaserchers, transports]
+image: "Helio.jpeg"
+---
+
+Doutorado no Programa de Pós-Graduação em Engenharia Civil (PPGEC) da Universidade Federal de Pernambuco (UFPE), com ênfase em Transportes e Gestão das Infraestruturas Urbanas, desde 2023. Mestre em Engenharia Civil pela UFPE (2023) e graduado em Engenharia Civil pela Universidade Federal de Campina Grande (2021). Possuo experiência na área de Engenharia Civil, com foco em transportes, atuando principalmente no desenvolvimento de estudos econométricos e de viabilidade de transporte aéreo.

@@ -1,0 +1,8 @@
+---
+title: "Patricia Lustosa Brito"
+date: "2026-09-12"
+categories: [reaserchers, geoinformatics]
+image: "patricia.jpeg"
+---
+
+Possui graduação em Arquitetura e Urbanismo pela UFBA, mestrado em Geografia pela UnB, Doutorado na área de Informações Espaciais pela Escola Politécnica da USP (Bolsa CAPES), com um ano de sanduíche na Louisiana State University, EUA (Bolsa CNPq) e pós doutorado na School of Engeneering da University of Birmingham, Reino Unido (Bolsa CAPES). Já trabalhou com planejamento e análise territorial na CONDER e Ministério das Cidades, em ONGs, em empresas e universidades privadas e atualmente é Professora Associada DE e coordenadora do Laboratório de Cartografia e SIG do Departamento de Engenharia de Transportes e Geodésia e foi coordenadora do curso de Pós graduação em Engenharia de Civil e coordenadora do Curso de Engenharia de Agrimensura e Cartográfica ambos da Escola Politécnica da Universidade Federal da Bahia. Tem mais recentemente desenvolvido pesquisas na área de Analises espaciais para Saúde Pública (inclusive COVID-19), Mapeamento de favelas, Mapeamento colaborativo e comunitário, Sensoriamento remoto ambiental, do espaço urbano e de áreas vulneráveis, Infra estrutura de dados espaciais para universidades, Novas geotecnologias para mapeamentos e Análises territoriais relacionados a favela, recursos hídricos, desastres e megaeventos.
